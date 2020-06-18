@@ -21,6 +21,10 @@ once you've install pipenv, you install project dependencies by running:
 
 `make bootstrap`
 
+launch the pipenv shell with
+
+`pipenv shell`
+
 finally, run the script with:
 
 `make start`
